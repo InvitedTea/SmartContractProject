@@ -1,1 +1,2 @@
-# SmartContractProject
+# SmartContractReview
+
